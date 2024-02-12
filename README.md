@@ -1,7 +1,7 @@
 # Projecttitel
 *Omschrijving van je concept in 1 zin* 
 
-*Projectteam: @Noah; @lupoppe*
+*Projectteam: Noah; lupoppe*
 
 Datum
 
