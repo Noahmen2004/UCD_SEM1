@@ -14,11 +14,11 @@ Hoe kunnen we ervoor zorgen dat een auto dashboard veiliger wordt en dat er reke
 
 Onze oplossing voor dit probleem zijn :
 
--Een heads-up display (HUD) over het hele raam waar de GPS route op het hele raam wordt geprojecteerd. Door deze oplossing gaat je aandacht/zicht niet weg van de rijbaan als je bijvoorbeeld wil controleren waarheen je moet afslaan. 
--Alle functies zullen voornamelijk bestuurd worden door middel van voice control zoals een Google Assistent. Zo ben je niet afgeleid van de weg als je de muziek wilt veranderen of de route wilt aanpassen. Uit het bronnenonderzoek blijkt 
- dat dit de veiligste manier is om met je auto te interageren. 
--Uit onze interviews blijkt dat de GPS op een touchscreen wel handig is om je bestemming in te geven. Dus blijft er nog een centraal control panel (touch screen), dat echter sluit als je begint te rijden en daarna verdwijnt. Hierdoor kan 
- de gebruiker niet afgeleid worden door dit scherm tijdens het rijden.  
+- Een heads-up display (HUD) over het hele raam waar de GPS route op het hele raam wordt geprojecteerd. Door deze oplossing gaat je aandacht/zicht niet weg van de rijbaan als je bijvoorbeeld wil controleren waarheen je moet afslaan. 
+- Alle functies zullen voornamelijk bestuurd worden door middel van voice control zoals een Google Assistent. Zo ben je niet afgeleid van de weg als je de muziek wilt veranderen of de route wilt aanpassen. Uit het bronnenonderzoek blijkt 
+  dat dit de veiligste manier is om met je auto te interageren. 
+- Uit onze interviews blijkt dat de GPS op een touchscreen wel handig is om je bestemming in te geven. Dus blijft er nog een centraal control panel (touch screen), dat echter sluit als je begint te rijden en daarna verdwijnt. Hierdoor kan 
+  de gebruiker niet afgeleid worden door dit scherm tijdens het rijden.  
 
 ## Introductie
 Max 300 woorden.
