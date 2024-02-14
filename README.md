@@ -21,7 +21,7 @@ Onze oplossing voor dit probleem zijn :
   de gebruiker niet afgeleid worden door dit scherm tijdens het rijden.
 
 <p>
-  <img src="[https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/343d123c-7247-4bda-b35b-b851a2511b5b](https://github.com/Noahmen2004/UCD_SEM1/blob/main/fotos/Scan_20231114%20(2).jpg)" width="49%"/>
+  <img src="https://github.com/Noahmen2004/UCD_SEM1/blob/main/fotos/Scan_20231114%20(2).jpg" width="49%"/>
   <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/6388c215-353b-473f-b0ad-b9d9dbf4852b" width="49%"/>
 </p>
 
