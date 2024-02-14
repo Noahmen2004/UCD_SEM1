@@ -12,7 +12,7 @@ Hoe kunnen we ervoor zorgen dat een auto dashboard veiliger wordt en dat er reke
 
 Hoe kunnen we ervoor zorgen dat een auto dashboard veiliger wordt en dat er rekening gehouden wordt met de doelgroep die deze auto zal gebruiken. Dit design project komt voort uit meerdere interviews en een focusgroep met de doelgroep, bronnenonderzoek en benchmarking, te vinden in bijlage. 
 
-Onze oplossing voor dit probleem zijn:
+Onze oplossing voor dit probleem zijn :
 
 -Een heads-up display (HUD) over het hele raam waar de GPS route op het hele raam wordt geprojecteerd. Door deze oplossing gaat je aandacht/zicht niet weg van de rijbaan als je bijvoorbeeld wil controleren waarheen je moet afslaan. 
 -Alle functies zullen voornamelijk bestuurd worden door middel van voice control zoals een Google Assistent. Zo ben je niet afgeleid van de weg als je de muziek wilt veranderen of de route wilt aanpassen. Uit het bronnenonderzoek blijkt 
