@@ -91,7 +91,6 @@ De focusgroep was een autorit met een gezin waar één van ons aanwezig was. Hie
 
 ### Resultaten
 **De resultaten uit de benchmarks:**
-
 Door de verschillende benchmarks te bekijken merkten we dat er tegenwoordig een trend is om minder en minder knoppen te gebruiken en meer en meer display schermen met het meest extreme voorbeeld Tesla. Ik merk op dat er echter nog niet echt auto's bestaan met alternatieven voor deze afleidende display schermen. Dit is iets wat aangepakt zou kunnen worden. Uit de benchmarks blijkt dat als je voor knoppen gaat, je moet letten op waar je deze plaatst (dichtbij voor de belangrijke bijvoorbeeld), de ergonomie, de feedback die een knop geeft en of de knoppen makkelijk te lezen en te interpreteren zijn. Als je voor display schermen kiest zijn de voorgaande dingen ook van belang maar komt er een extra ding bij namelijk de user interface van de display schermen, deze is dan ook super belangrijk om rekening mee te houden. Ten slotte is een van de belangrijkste dingen dat alles een intuïtief gebruik heeft.
 <p>
   <img src="https://github.com/Noahmen2004/UCD_SEM1/blob/main/fotos/image%20(3).png" width="49%"/>
@@ -99,6 +98,7 @@ Door de verschillende benchmarks te bekijken merkten we dat er tegenwoordig een 
   <img src="https://github.com/Noahmen2004/UCD_SEM1/blob/main/fotos/image%20(5).png" width="49%"/>
   <img src="https://github.com/Noahmen2004/UCD_SEM1/blob/main/fotos/image%20(6).png" width="49%"/>
 </p>
+
 **De resultaten uit het bronnenonderzoek:**
 Hieruit blijkt dat de belangrijke knoppen effectief tactiel moeten zijn en feedback moeten geven. Dit is vaak niet zo op een touchscreen (Pogue, 2018). Uit een ander artikel komt deze quote: That’s the definition of a proper dashboard. Clear and actionable, especially for non-experts. It’s based on a model: this is good and that is not good. Ga er niet van uit dat de gebruikers alle parameters van een auto kennen, zeg hem wat ok en niet ok is, laat hem geen grafieken interpreteren (Kuijlen, 2023). Een artikel toont aan dat het gebruik van centrale display schermen veel afleidender zijn dan onder invloed rijden, het artikel heeft ook deze belangrijke quote:”Alleen bediening met je stem is veilig”, Tom Brijs, Universiteit Hasselt (Nws, 2021). We krijgen een blik op de toekomstige display technologie, namelijk window overlay screens die gewoon in het raam van een auto verwerkt kunnen worden en waar je nog steeds helder door kan kijken, een soort van translucent screen (Techno Source, 2017). 
 Artikels over voice control zeggen het volgende: “Voice Control makes the operation of in-vehicle equipment possible by using voice commands. With this technology, drivers can easily use a variety of in-vehicle functions for a comfortable drive while driving and without taking their eyes off the road.” (Voice Control With Natural Language-Understanding Technology | Innovation |, n.d.). Een artikel over HUD zegt het volgende: ”Head's up display: De bestuurder kan op die manier zijn blik op de weg houden in plaats van naar de boordinstrumenten te kijken.”(Head-up Display: Technologie Achter De Voorruit | Carglass®, n.d.). 
@@ -108,6 +108,7 @@ De functie van de persoon naast de chauffeur is heel belangrijk. Deze persoon he
 
 **De resultaten uit de interviews:**
 Hieruit haalden we vooral de eisen en wensen van onze doelgroep. In hun woorden: ”veiligheid primeert eenvoudig om te bedienen simpel design, niet te veel knoppen.” Een wens is een veiligheidsknop die de hulpdiensten automatisch belt en die ook werkt in de meest extreme omstandigheden. Het interview heeft ons ook geholpen een persona op te stellen. 
+
 ### Conclusies & implicaties
 Het moet eerst en vooral een veilig design zijn, het dashboard mag je niet afleiden tijdens het rijden of toch zo weinig mogelijk. Het moet vlot te gebruiken zijn en alle knoppen/displays moeten op een comfortabele afstand zitten en een duidelijke feedback geven. 
 
