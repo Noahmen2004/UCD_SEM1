@@ -162,13 +162,13 @@ Het teamwork dit semester is zeer vlot verlopen, we konden goed het werk verdele
 
 
 ## Bronnen
-About | Granstudio. (n.d.). Granstudio. <br> https://www.granstudio.com/about <br>
-What’s the best Car dashboards ever designed? (n.d.). Quora. <br> https://www.quora.com/Whats-the-best-Car-dashboards-ever-designed <br>
-Pogue, D. (2018, September 13). Automobile dashboard technology is simply awful. Scientific American. <br> https://www.scientificamerican.com/article/automobile-dashboard-technology-is-simply-awful/ <br>
-Kuijlen, C. (2023, October 4). Dashboards vs. Trashboards. SIG. <br> https://www.softwareimprovementgroup.com/dashboards-vs-trashboards/ <br>
-Nws, V. (2021, March 11). Aanraakschermen in je auto bedienen drie keer gevaarlijker dan rijden onder invloed: “Europese regels nodig.” vrtnws.be. <br> https://www.vrt.be/vrtnws/nl/2021/03/11/aanraakschermen-in-je-auto-bedienen-drie-keer-gevaarlijker-dan-r/ <br>
-Techno Source. (2017, May 2). LG’s future display technology will blow you away [Video]. YouTube. <br> https://www.youtube.com/watch?v=qIRjytgNuhM <br>
-Voice Control with Natural Language-Understanding Technology | Innovation |. (n.d.). <br> https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/VC/ <br>
-Head-up display: technologie achter de voorruit | Carglass®. (n.d.). Glass. <br> https://www.carglass.be/nl/autoruitschade/technologie-achter-de-voorruit/head-up-display#:~:text=Head%2Dup%20display%20is%20het,de%20autoruit%20maakt%20dit%20mogelijk
+About | Granstudio. (n.d.). Granstudio. <br> &emsp; https://www.granstudio.com/about <br>
+What’s the best Car dashboards ever designed? (n.d.). Quora. <br> &emsp; https://www.quora.com/Whats-the-best-Car-dashboards-ever-designed <br>
+Pogue, D. (2018, September 13). Automobile dashboard technology is simply awful. Scientific American. <br> &emsp; https://www.scientificamerican.com/article/automobile-dashboard-technology-is-simply-awful/ <br>
+Kuijlen, C. (2023, October 4). Dashboards vs. Trashboards. SIG. <br> &emsp; https://www.softwareimprovementgroup.com/dashboards-vs-trashboards/ <br>
+Nws, V. (2021, March 11). Aanraakschermen in je auto bedienen drie keer gevaarlijker dan rijden onder invloed: “Europese regels nodig.” vrtnws.be. <br> &emsp; https://www.vrt.be/vrtnws/nl/2021/03/11/aanraakschermen-in-je-auto-bedienen-drie-keer-gevaarlijker-dan-r/ <br>
+Techno Source. (2017, May 2). LG’s future display technology will blow you away [Video]. YouTube. <br> &emsp; https://www.youtube.com/watch?v=qIRjytgNuhM <br>
+Voice Control with Natural Language-Understanding Technology | Innovation |. (n.d.). <br> &emsp; https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/VC/ <br>
+Head-up display: technologie achter de voorruit | Carglass®. (n.d.). Glass. <br> &emsp; https://www.carglass.be/nl/autoruitschade/technologie-achter-de-voorruit/head-up-display#:~:text=Head%2Dup%20display%20is%20het,de%20autoruit%20maakt%20dit%20mogelijk
 
 ## Bijlagen
