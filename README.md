@@ -26,9 +26,13 @@ Onze oplossing voor dit probleem zijn :
 </p>
 
 ## Introductie
-Max 300 woorden.
-Kader je project. Introduceer het probleem en jouw doelstellingen (inclusief boundary conditions).
-Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/category/apa-stijl/)).
+Zoals al eerder vermeld is, luidt het probleem als volgt: ”Hoe kunnen we ervoor zorgen dat een auto dashboard veiliger wordt en dat er rekening gehouden wordt met de doelgroep die deze auto zal gebruiken.” Hierin vind je al 2 van de belangrijkste eisen terug, namelijk dat het dashboard zo veilig mogelijk moet zijn en dat het ontworpen wordt voor een gezin, zijnde de doelgroep. 
+
+We gaan dus bij elke stap en keuze die we maken onze doelgroep moeten ondervragen en controleren of dit voor hen de beste oplossing is. Bij elke stap en keuze gaan we ook een check moeten doen of dit een veilige oplossing is voor het subprobleem/aspect. 
+
+Uit de doelgroep volgen dan ook verschillende sub eisen/wensen. Een van deze is bijvoorbeeld dat de dashboard er goed moet uitzien zodat het een aantrekkelijk product is om te gebruiken. Nog een paar van deze sub eisen/wensen zijn een eenvoudige bediening, een minimalistisch design met enkel essentiële knoppen. Een wens is ook een knop om de hulpdiensten te bellen die zelfs in extreme omstandigheden werkt. Deze eisen en wensen komen allemaal uit een interview dat wij gedaan hebben met de doelgroep. 
+
+Het project is in samenwerking met Granstudio een bedrijf dat al lang bezig is met het ontwerpen van nieuwe en innovatieve oplossingen voor interactieve producten en al veel bezig is geweest met onder andere automotive design, interactive design en mobility design (About | Granstudio, n.d.). Zij gebruiken digiphy om verschillende aspecten van het dashboard te testen en verwachten dat we een soortgelijke opstelling maken om ook verschillende aspecten te kunnen testen. 
 
 ## Methdologie
 Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). Maak hierbij gebruik van een afbeelding om je tijdlijn weer te geven. Op deze tijdlijn moeten minimaal een tijdsincatie te zien zijn, moeten fasen te zien zijn en moeten activiteiten te zien zijn.
