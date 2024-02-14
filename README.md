@@ -162,6 +162,13 @@ Het teamwork dit semester is zeer vlot verlopen, we konden goed het werk verdele
 
 
 ## Bronnen
-Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
+About | Granstudio. (n.d.). Granstudio. https://www.granstudio.com/about
+What’s the best Car dashboards ever designed? (n.d.). Quora. https://www.quora.com/Whats-the-best-Car-dashboards-ever-designed
+Pogue, D. (2018, September 13). Automobile dashboard technology is simply awful. Scientific American. https://www.scientificamerican.com/article/automobile-dashboard-technology-is-simply-awful/
+Kuijlen, C. (2023, October 4). Dashboards vs. Trashboards. SIG. https://www.softwareimprovementgroup.com/dashboards-vs-trashboards/
+Nws, V. (2021, March 11). Aanraakschermen in je auto bedienen drie keer gevaarlijker dan rijden onder invloed: “Europese regels nodig.” vrtnws.be. https://www.vrt.be/vrtnws/nl/2021/03/11/aanraakschermen-in-je-auto-bedienen-drie-keer-gevaarlijker-dan-r/
+Techno Source. (2017, May 2). LG’s future display technology will blow you away [Video]. YouTube. https://www.youtube.com/watch?v=qIRjytgNuhM
+Voice Control with Natural Language-Understanding Technology | Innovation |. (n.d.). https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/VC/
+Head-up display: technologie achter de voorruit | Carglass®. (n.d.). Glass. https://www.carglass.be/nl/autoruitschade/technologie-achter-de-voorruit/head-up-display#:~:text=Head%2Dup%20display%20is%20het,de%20autoruit%20maakt%20dit%20mogelijk
 
 ## Bijlagen
