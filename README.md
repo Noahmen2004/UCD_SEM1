@@ -91,6 +91,7 @@ De focusgroep was een autorit met een gezin waar één van ons aanwezig was. Hie
 
 ### Resultaten
 **De resultaten uit de benchmarks:**
+
 Door de verschillende benchmarks te bekijken merkten we dat er tegenwoordig een trend is om minder en minder knoppen te gebruiken en meer en meer display schermen met het meest extreme voorbeeld Tesla. Ik merk op dat er echter nog niet echt auto's bestaan met alternatieven voor deze afleidende display schermen. Dit is iets wat aangepakt zou kunnen worden. Uit de benchmarks blijkt dat als je voor knoppen gaat, je moet letten op waar je deze plaatst (dichtbij voor de belangrijke bijvoorbeeld), de ergonomie, de feedback die een knop geeft en of de knoppen makkelijk te lezen en te interpreteren zijn. Als je voor display schermen kiest zijn de voorgaande dingen ook van belang maar komt er een extra ding bij namelijk de user interface van de display schermen, deze is dan ook super belangrijk om rekening mee te houden. Ten slotte is een van de belangrijkste dingen dat alles een intuïtief gebruik heeft.
 <p>
   <img src="https://github.com/Noahmen2004/UCD_SEM1/blob/main/fotos/image%20(3).png" width="49%"/>
