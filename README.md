@@ -35,7 +35,20 @@ Uit de doelgroep volgen dan ook verschillende sub eisen/wensen. Een van deze is 
 Het project is in samenwerking met Granstudio een bedrijf dat al lang bezig is met het ontwerpen van nieuwe en innovatieve oplossingen voor interactieve producten en al veel bezig is geweest met onder andere automotive design, interactive design en mobility design (About | Granstudio, n.d.). Zij gebruiken digiphy om verschillende aspecten van het dashboard te testen en verwachten dat we een soortgelijke opstelling maken om ook verschillende aspecten te kunnen testen. 
 
 ## Methdologie
-Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). Maak hierbij gebruik van een afbeelding om je tijdlijn weer te geven. Op deze tijdlijn moeten minimaal een tijdsincatie te zien zijn, moeten fasen te zien zijn en moeten activiteiten te zien zijn.
+<p>
+  <img src="https://github.com/Noahmen2004/UCD_SEM1/blob/main/fotos/Dashboard%20design%20challenge%20-%20Frame%205%20(2).jpg" width="49%"/>
+
+</p>
+
+Methodes:
+
+- We zijn begonnen met ons te verdiepen in het onderwerp door middel van veel literatuuronderzoek.
+- Daarna zijn we verschillende benchmarks beginnen bekijken en hebben daarvan alle pros en cons opgesteld. Zo konden we zien welke technologie er al bestond en welke handig en/of essentieel waren.
+
+- Daarna hebben we interviews afgenomen en een focusgroep opgericht om te ontdekken hoe onze doelgroep leeft en ook om te ontdekken wat zij belangrijk vinden en graag zien gebeuren met dit product. Meer specifiek hebben we hierdoor ook kunnen polsen wat hun eisen zijn voor het ontwerp van een car dashboard. 
+
+Uit al dit vooronderzoek hebben we dan een duidelijke probleemstelling opgesteld. We hebben ook extra wensen opgesteld zodat we nu een duidelijk idee hebben welk probleem er vooral opgelost moet worden met ons ontwerp van een nieuw car dashboard. 
+Vanaf dan zijn we beginnen brainstormen over verschillende ideeën om dit probleem op te lossen, dit door al ons onderzoek raad te plegen (zie bijlagen). We hebben dan beiden een oplossing gepitcht en zijn verder beginnen werken op één van de twee. In de concept validation fase zijn we dan prototypes beginnen maken om verschillende deelaspecten van ons ontwerp te testen bij de gebruiker om zo te testen wat werkt en hierop iteraties te kunnen uitvoeren. 
 
 ## Discovery
 Max. 1000 woorden
