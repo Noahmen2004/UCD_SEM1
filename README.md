@@ -51,11 +51,42 @@ Uit al dit vooronderzoek hebben we dan een duidelijke probleemstelling opgesteld
 Vanaf dan zijn we beginnen brainstormen over verschillende ideeën om dit probleem op te lossen, dit door al ons onderzoek raad te plegen (zie bijlagen). We hebben dan beiden een oplossing gepitcht en zijn verder beginnen werken op één van de twee. In de concept validation fase zijn we dan prototypes beginnen maken om verschillende deelaspecten van ons ontwerp te testen bij de gebruiker om zo te testen wat werkt en hierop iteraties te kunnen uitvoeren. 
 
 ## Discovery
-Max. 1000 woorden
+
+
 ### Doestellingen
-Wat wilde je bereiken?
+De doelstelling in deze “discovery” fase was ons onderdompelen in het thema. Dus zo veel mogelijk info verzamelen zodat we veel kennis hebben over het onderwerp om hieruit oplossingen voor het probleem te zoeken en vinden. Vervolgens was het doel om een duidelijk probleem vast te leggen bij onze doelgroep met betrekking tot car dashboards. Zodat we hieruit exact wisten wat de eisen en wensen waren waarmee wij bij elke stap van het verdere ontwerpproces rekening moesten houden.
+<p>
+  <img src="https://github.com/Noahmen2004/UCD_SEM1/blob/main/fotos/goals-2-e1452027249379.png" width="49%"/>
+
+</p>
+
 ### Materiaal & methoden
-Hoe onderzocht je dit? Wees volledig.
+De gebruikte methoden waren:
+ - benchmarking
+- interviews met de doelgroep
+- focusgroep
+- bronnenonderzoek
+Deze methoden worden nu elk nog wat beter besproken.
+Voor de benchmarks werden er meerdere auto’s bekeken zoals de Mazda RX-7 die volgens velen één van de meest ergonomische dashboards heeft.
+> “The first thing you will notice is the slant to every control surface in the vehicle. Everything is tilted towards the driver, hugging him/her and giving better visibility and access to anything needed for driving. When you sit in the driver’s seat there is no doubt in your mind who is controlling the vehicle. Many describe it as getting into a fighter jet and I believe that is accurate.”
+(What’s the Best Car Dashboards Ever Designed?, n.d.).
+We hebben ook meer moderne auto's bekeken zoals een Tesla, hieruit haalden we  pro's:
+ - maar 2 knoppen
+ - een minimalistisch design
+ -  weinig dingen die je kunnen afleiden
+Maar er zijn ook cons zoals het feit dat alles nu bediend wordt via een centraal touchscreen. Zo’n touchscreen is:
+ - soms moeilijk te navigeren 
+ - geeft niet altijd de beste respons 
+ - super afleidend
+ - De andere benchmarks die onderzocht werden vind je terug bij het miroboard in bijlage.
+
+Bij het bronnenonderzoek hebben we samen een twintigtal bronnen gelezen en de essentie ervan genoteerd in onze miroboards (zie bijlage). 
+
+De interviews werden gedaan met mensen uit de doelgroep  hier werd gepolst naar hun levensstijl en hun belangen op vlak van producten en autogebruik. Zie bijlage voor het interview.  
+
+De focusgroep was een autorit met een gezin waar één van ons aanwezig was. Hierbij werd gezegd dat het gezin gewoon moest doen alsof het een normale autorit was. Zo konden we het gedrag van een gezin onder elkaar en met de auto observeren. Voor meer informatie hierover verwijzen we je weer naar de bijlagen. 
+
+
 ### Resultaten
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
 ### Conclusies & implicaties
