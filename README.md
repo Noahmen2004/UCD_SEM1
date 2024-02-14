@@ -110,7 +110,7 @@ Het is handig om je elektronische apparaten te kunnen opladen in de auto. <br>
 Het is ook van belang om knoppen die functies bedienen die alle passagiers aangaan centraal te zetten zodat zowel de chauffeur als de passagier ernaast deze kunnen besturen. <br>
 Een belangrijk gedragspatroon dat we ontdekt hebben uit de focusgroep is dat de mede passagier en de chauffeur (in een gezin vaak de moeder en de vader) een team zijn en dat ze elkaar helpen bij de verschillende taken die uitgevoerd worden tijdens het rijden. Ze hebben vaak ook al veel ervaring met elkaar te helpen en hierdoor gaan sommige dingen zelfs gewoon automatisch zonder dat er te veel woorden aan vuil gemaakt worden. Er is al een duidelijk vastgelegd ritme/patroon in de manier waarmee zij de auto gebruiken.
 <p>
-  <img src="https://github.com/Noahmen2004/UCD_SEM1/blob/main/fotos/Dashboard%20design%20challenge%20-%20Frame%205%20(2).jpg" width="49%"/>
+  <img src="https://github.com/Noahmen2004/UCD_SEM1/blob/main/fotos/work-travail-banner-470x157.jpg" width="49%"/>
 
 </p>
 
