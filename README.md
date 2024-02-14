@@ -18,7 +18,12 @@ Onze oplossing voor dit probleem zijn :
 - Alle functies zullen voornamelijk bestuurd worden door middel van voice control zoals een Google Assistent. Zo ben je niet afgeleid van de weg als je de muziek wilt veranderen of de route wilt aanpassen. Uit het bronnenonderzoek blijkt 
   dat dit de veiligste manier is om met je auto te interageren. 
 - Uit onze interviews blijkt dat de GPS op een touchscreen wel handig is om je bestemming in te geven. Dus blijft er nog een centraal control panel (touch screen), dat echter sluit als je begint te rijden en daarna verdwijnt. Hierdoor kan 
-  de gebruiker niet afgeleid worden door dit scherm tijdens het rijden.  
+  de gebruiker niet afgeleid worden door dit scherm tijdens het rijden.
+
+<p>
+  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/343d123c-7247-4bda-b35b-b851a2511b5b" width="49%"/>
+  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/6388c215-353b-473f-b0ad-b9d9dbf4852b" width="49%"/>
+</p>
 
 ## Introductie
 Max 300 woorden.
