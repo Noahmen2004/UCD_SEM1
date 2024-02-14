@@ -113,7 +113,14 @@ Een belangrijk gedragspatroon dat we ontdekt hebben uit de focusgroep is dat de 
 **De resultaten uit de interviews:** <br>
 Hieruit haalden we vooral de eisen en wensen van onze doelgroep. In hun woorden: 
 >”veiligheid primeert eenvoudig om te bedienen simpel design, niet te veel knoppen.”
-Een wens is een veiligheidsknop die de hulpdiensten automatisch belt en die ook werkt in de meest extreme omstandigheden. Het interview heeft ons ook geholpen een persona op te stellen. 
+Een wens is een veiligheidsknop die de hulpdiensten automatisch belt en die ook werkt in de meest extreme omstandigheden. Het interview heeft ons ook geholpen een persona op te stellen.
+
+<p>
+  <img src="https://github.com/Noahmen2004/UCD_SEM1/blob/main/fotos/Dashboard%20design%20challenge%20-%20persona%20(1).jpg" width="49%"/>
+
+</p>
+
+
 
 ### Conclusies & implicaties <br>
 Het moet eerst en vooral een veilig design zijn, het dashboard mag je niet afleiden tijdens het rijden of toch zo weinig mogelijk. Het moet vlot te gebruiken zijn en alle knoppen/displays moeten op een comfortabele afstand zitten en een duidelijke feedback geven. 
