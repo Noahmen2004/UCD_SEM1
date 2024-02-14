@@ -4,7 +4,7 @@
 
 *Projectteam: Noah; lupoppe*
 
-Projectteam: Luca Poppe; Noah Menschaert
+
 Datum 22/1/2024
 
 ## Samenvatting
