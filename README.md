@@ -71,10 +71,11 @@ Voor de benchmarks werden er meerdere auto’s bekeken zoals de Mazda RX-7 die v
 > “The first thing you will notice is the slant to every control surface in the vehicle. Everything is tilted towards the driver, hugging him/her and giving better visibility and access to anything needed for driving. When you sit in the driver’s seat there is no doubt in your mind who is controlling the vehicle. Many describe it as getting into a fighter jet and I believe that is accurate.”
 (What’s the Best Car Dashboards Ever Designed?, n.d.).
 
-**We hebben ook meer moderne auto's bekeken zoals een Tesla, hieruit haalden we  pro's:**
+We hebben ook meer moderne auto's bekeken zoals een Tesla, hieruit haalden we  pro's:
  - maar 2 knoppen
  - een minimalistisch design
  -  weinig dingen die je kunnen afleiden
+   
 Maar er zijn ook cons zoals het feit dat alles nu bediend wordt via een centraal touchscreen. Zo’n touchscreen is:
  - soms moeilijk te navigeren 
  - geeft niet altijd de beste respons 
