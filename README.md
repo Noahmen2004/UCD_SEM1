@@ -1,4 +1,4 @@
-# Projecttitel
+s# Projecttitel
 > "Een zo veilig mogelijk car dashboard ontworpen voor gezinnen
 "
 
@@ -110,7 +110,9 @@ Het is handig om je elektronische apparaten te kunnen opladen in de auto.
 Het is ook van belang om knoppen die functies bedienen die alle passagiers aangaan centraal te zetten zodat zowel de chauffeur als de passagier ernaast deze kunnen besturen. Een belangrijk gedragspatroon dat we ontdekt hebben uit de focusgroep is dat de mede passagier en de chauffeur (in een gezin vaak de moeder en de vader) een team zijn en dat ze elkaar helpen bij de verschillende taken die uitgevoerd worden tijdens het rijden. Ze hebben vaak ook al veel ervaring met elkaar te helpen en hierdoor gaan sommige dingen zelfs gewoon automatisch zonder dat er te veel woorden aan vuil gemaakt worden. Er is al een duidelijk vastgelegd ritme/patroon in de manier waarmee zij de auto gebruiken.
 
 **De resultaten uit de interviews:**
-Hieruit haalden we vooral de eisen en wensen van onze doelgroep. In hun woorden: ”veiligheid primeert eenvoudig om te bedienen simpel design, niet te veel knoppen.” Een wens is een veiligheidsknop die de hulpdiensten automatisch belt en die ook werkt in de meest extreme omstandigheden. Het interview heeft ons ook geholpen een persona op te stellen. 
+Hieruit haalden we vooral de eisen en wensen van onze doelgroep. In hun woorden: 
+>”veiligheid primeert eenvoudig om te bedienen simpel design, niet te veel knoppen.”
+Een wens is een veiligheidsknop die de hulpdiensten automatisch belt en die ook werkt in de meest extreme omstandigheden. Het interview heeft ons ook geholpen een persona op te stellen. 
 
 ### Conclusies & implicaties
 Het moet eerst en vooral een veilig design zijn, het dashboard mag je niet afleiden tijdens het rijden of toch zo weinig mogelijk. Het moet vlot te gebruiken zijn en alle knoppen/displays moeten op een comfortabele afstand zitten en een duidelijke feedback geven. 
