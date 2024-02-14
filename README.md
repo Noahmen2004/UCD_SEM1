@@ -99,22 +99,23 @@ Door de verschillende benchmarks te bekijken merkten we dat er tegenwoordig een 
   <img src="https://github.com/Noahmen2004/UCD_SEM1/blob/main/fotos/image%20(6).png" width="49%"/>
 </p>
 
-**De resultaten uit het bronnenonderzoek:**
+**De resultaten uit het bronnenonderzoek:** <br>
 Hieruit blijkt dat de belangrijke knoppen effectief tactiel moeten zijn en feedback moeten geven. Dit is vaak niet zo op een touchscreen (Pogue, 2018). Uit een ander artikel komt deze quote: That’s the definition of a proper dashboard. Clear and actionable, especially for non-experts. It’s based on a model: this is good and that is not good. Ga er niet van uit dat de gebruikers alle parameters van een auto kennen, zeg hem wat ok en niet ok is, laat hem geen grafieken interpreteren (Kuijlen, 2023). Een artikel toont aan dat het gebruik van centrale display schermen veel afleidender zijn dan onder invloed rijden, het artikel heeft ook deze belangrijke quote:”Alleen bediening met je stem is veilig”, Tom Brijs, Universiteit Hasselt (Nws, 2021). We krijgen een blik op de toekomstige display technologie, namelijk window overlay screens die gewoon in het raam van een auto verwerkt kunnen worden en waar je nog steeds helder door kan kijken, een soort van translucent screen (Techno Source, 2017). 
 Artikels over voice control zeggen het volgende: “Voice Control makes the operation of in-vehicle equipment possible by using voice commands. With this technology, drivers can easily use a variety of in-vehicle functions for a comfortable drive while driving and without taking their eyes off the road.” (Voice Control With Natural Language-Understanding Technology | Innovation |, n.d.). Een artikel over HUD zegt het volgende: ”Head's up display: De bestuurder kan op die manier zijn blik op de weg houden in plaats van naar de boordinstrumenten te kijken.”(Head-up Display: Technologie Achter De Voorruit | Carglass®, n.d.). 
 
-**De resultaten uit de focusgroep:**
-De functie van de persoon naast de chauffeur is heel belangrijk. Deze persoon helpt bij het navigeren, muziek opleggen, airco aansteken en ramen opendoen. 
-Er is ook duidelijk een belang voor een GPS dat de voorste passagiers van de auto allebei kunnen zien.
-Het is handig om je elektronische apparaten te kunnen opladen in de auto. 
-Het is ook van belang om knoppen die functies bedienen die alle passagiers aangaan centraal te zetten zodat zowel de chauffeur als de passagier ernaast deze kunnen besturen. Een belangrijk gedragspatroon dat we ontdekt hebben uit de focusgroep is dat de mede passagier en de chauffeur (in een gezin vaak de moeder en de vader) een team zijn en dat ze elkaar helpen bij de verschillende taken die uitgevoerd worden tijdens het rijden. Ze hebben vaak ook al veel ervaring met elkaar te helpen en hierdoor gaan sommige dingen zelfs gewoon automatisch zonder dat er te veel woorden aan vuil gemaakt worden. Er is al een duidelijk vastgelegd ritme/patroon in de manier waarmee zij de auto gebruiken.
+**De resultaten uit de focusgroep:** <br>
+De functie van de persoon naast de chauffeur is heel belangrijk. Deze persoon helpt bij het navigeren, muziek opleggen, airco aansteken en ramen opendoen. <br>
+Er is ook duidelijk een belang voor een GPS dat de voorste passagiers van de auto allebei kunnen zien. <br>
+Het is handig om je elektronische apparaten te kunnen opladen in de auto. <br>
+Het is ook van belang om knoppen die functies bedienen die alle passagiers aangaan centraal te zetten zodat zowel de chauffeur als de passagier ernaast deze kunnen besturen. <br>
+Een belangrijk gedragspatroon dat we ontdekt hebben uit de focusgroep is dat de mede passagier en de chauffeur (in een gezin vaak de moeder en de vader) een team zijn en dat ze elkaar helpen bij de verschillende taken die uitgevoerd worden tijdens het rijden. Ze hebben vaak ook al veel ervaring met elkaar te helpen en hierdoor gaan sommige dingen zelfs gewoon automatisch zonder dat er te veel woorden aan vuil gemaakt worden. Er is al een duidelijk vastgelegd ritme/patroon in de manier waarmee zij de auto gebruiken.
 
-**De resultaten uit de interviews:**
+**De resultaten uit de interviews:** <br>
 Hieruit haalden we vooral de eisen en wensen van onze doelgroep. In hun woorden: 
 >”veiligheid primeert eenvoudig om te bedienen simpel design, niet te veel knoppen.”
 Een wens is een veiligheidsknop die de hulpdiensten automatisch belt en die ook werkt in de meest extreme omstandigheden. Het interview heeft ons ook geholpen een persona op te stellen. 
 
-### Conclusies & implicaties
+### Conclusies & implicaties <br>
 Het moet eerst en vooral een veilig design zijn, het dashboard mag je niet afleiden tijdens het rijden of toch zo weinig mogelijk. Het moet vlot te gebruiken zijn en alle knoppen/displays moeten op een comfortabele afstand zitten en een duidelijke feedback geven. 
 
 ## Definition
