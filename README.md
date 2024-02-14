@@ -115,7 +115,15 @@ Definieer de belangrijkste designbeslissingen
 
 
 ## Kritische reflectie
-Max. 500 woorden
+Na het 1e semester hebben we nu een duidelijk probleem met een eerste oplossing.  Dit concept van de oplossing  kan nu in het 2e semester verder getest worden. We hebben dit semester nog maar 2 kleine subaspecten van het concept geprototyped en getest, er zijn echter nog veel dingen die moeten getest worden bij de gebruiker. 
+
+Het eerste semester is relatief vlot verlopen. Onze werkpunten naar volgend semester toe zin:
+- Een betere planning maken en op de timing letten. Want het was dit semester lastig om alle prototypes af te krijgen en te testen in de voorgelegde time frame.
+Als we ons hier iets beter voor voorbereiden dan kan dit vlotter verlope
+- Beter documenteren van ons werk. Dit werd niet altijd even goed gedaan waardoor sommige dingen niet genoeg in detail herbekeken kon worden om hier dan bijvoorbeeld achteraf conclusies uit te trekken. 
+
+Het teamwork dit semester is zeer vlot verlopen, we konden goed het werk verdelen en waren steeds goed op de hoogte van waar we stonden met het ontwerp. Elk nieuw idee werd besproken onder elkaar en de beslissingen werden samen gemaakt. 
+
 
 ## Bronnen
 Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
