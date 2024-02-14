@@ -1,5 +1,6 @@
 # Projecttitel
-*Omschrijving van je concept in 1 zin* 
+> "Een zo veilig mogelijk car dashboard ontworpen voor gezinnen
+"
 
 *Projectteam: Noah; lupoppe*
 
