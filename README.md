@@ -92,7 +92,7 @@ De focusgroep was een autorit met een gezin waar één van ons aanwezig was. Hie
 ### Resultaten
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
 ### Conclusies & implicaties
-Definieer de belangrijkste designbeslissingen
+Het moet eerst en vooral een veilig design zijn, het dashboard mag je niet afleiden tijdens het rijden of toch zo weinig mogelijk. Het moet vlot te gebruiken zijn en alle knoppen/displays moeten op een comfortabele afstand zitten en een duidelijke feedback geven. 
 
 ## Definition
 Max. 1000 woorden
@@ -106,15 +106,13 @@ Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
 Definieer de belangrijkste designbeslissingen
 
 ## Bill of materials
-- Welk
-- Materiaal
-- Heb
-- Je
-- Nu
-- Nodig
-- Voor
-- Je
-- Prototype
+- Hout
+- Oude auto onderdelen bv:(stuur, autostoel, oud aanpasbaar dashboard, koppeling, handrem)
+- Knoppen (draai, switch, normaal)
+- Kleine motor
+- Groot doorzichtig scherm(autoraam)
+
+
 
 ## Kritische reflectie
 Max. 500 woorden
