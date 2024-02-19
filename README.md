@@ -130,23 +130,142 @@ Een wens is een veiligheidsknop die de hulpdiensten automatisch belt en die ook 
 ### Conclusies & implicaties <br>
 Het moet eerst en vooral een veilig design zijn, het dashboard mag je niet afleiden tijdens het rijden of toch zo weinig mogelijk. Het moet vlot te gebruiken zijn en alle knoppen/displays moeten op een comfortabele afstand zitten en een duidelijke feedback geven. 
 
-## Definition
-Max. 1000 woorden
-### Doestellingen
-Wat wilde je bereiken?
-### Materiaal & methoden
-Hoe onderzocht je dit? Wees volledig.
-### Resultaten
-Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
-### Conclusies & implicaties
-Definieer de belangrijkste designbeslissingen
+# Definition:
+## Doelstellingen
+De definitiefase bestaat uit twee delen, ideeëngeneratie en testfase. Tijdens ideeëngeneratie worden concepten bedacht die voldoen aan de eerder vastgelegde noden en wensen. Uit deze concepten wordt een selectie gemaakt die gerealiseerd wordt in een prototype. Door middel van testen worden problemen met de prototypes blootgelegd. Aan het eind van de definitiefase hebben we duidelijke concepten en een idee van hoe die te verbeteren zijn.
 
-## Bill of materials
-- Hout
-- Oude auto onderdelen bv:(stuur, autostoel, oud aanpasbaar dashboard, koppeling, handrem)
-- Knoppen (draai, switch, normaal)
-- Kleine motor
-- Groot doorzichtig scherm(autoraam)
+## Materiaal & methoden - ideeëngeneratie
+Het ideeëngeneratie proces start met divergentie, zoveel mogelijk ideeën worden geformuleerd zonder rekening te houden met de haalbaarheid. Hiervoor hebben we de lotus blossom ideation methode gebruikt. De design challenge wordt opgedeeld in meerdere subcategorieën waar ideeën rond bedacht worden. Na de divergentie komt exploratie, deze fase evalueert de ideeën individueel.  Hiervoor gebruiken we de COCD methode en succescriteria. Zo zijn de ideeën bepaald aan de hand van haalbaarheid en innovatie via COCD, alsook de veiligheid en afleiding van de weg als succescriteria. Ten slotte steekt 1 concept uit boven de rest in de convergentiefase. Het concept bestaat uit de beste combinatie van ideeën. Hieruit worden de prototypes in de testfase bedacht en getest.
+
+## Ideeëngeneratie
+**De vier belangrijkste subcategories voor ons probleem zijn: Informatieweergave, bedieningsmethoden, afleiding preventie & - detectie en ten slotte gevolgen preventie.**
+### informatieweergave
+- HUD
+- geaugmenteerde realiteit
+- virtuële realiteit
+
+Virtueële realiteit is de minst veilige optie, aangezien er nood is aan een bril die het zicht blokkeert in het geval deze faalt. Geaugmenteerde realiteit lijdt niet aan dit mankement. Afhankelijk van de technologie is er toch nood aan draagbare apparatuur (bv. bril). 
+
+**Oplossing: Geaugmenteerde realiteit combineern met een HUD over heel de voorruit zorgt ervoor dat de piloot de ogen niet van de baan afwijkt.** 
+
+### bedieningsmethoden
+- fysieke knoppen
+- automatisch bediend
+- stembediening
+- handbeweging
+- touchscreen
+- touchpad
+
+Automatisering elimineert alle afleiding en is daarmee de beste optie, deze lijkt ons echter niet realiseerbaar genoeg om ons op te focussen. Daarnaast is de tweede beste optie stembediening, wat in de discovery fase besproken is. Na stembediening staat het gebruik van fysieke knoppen. Ze kunnen bediend worden terwijl de piloot naar de baan kijkt. Het voordeel van een touchscreen is dat alle functies bediend kunnen worden met enkel een kleine ruimte in te nemen. Het nadeel is de afleiding en dat er meer handelingen nodig zijn om een functie te bedienen dan bij fysieke knoppen.
+
+**oplossing: Alle functies zijn te besturen via stembediening. Essentiële functies (tijdens het rijden) kunnnen ook via fysieke knoppen gebruikt worden. Niet-essentiële functies zijn beschikbaar op een touchscreen tijdens het stilstaan.**
+
+### afleiding preventtie
+- eye tracking
+- reactiesnelheid detectie
+- bediening restrictie
+- minimale informatieweergave
+- goede leesbaarheid van informatie
+
+**Hiervan zien we bediening restrictie en minimale weergave van informatie als de belangrijkste.**
+
+### gevolgen preventie
+- adaptieve cruise control
+- automatische rem
+- lane-assist 
+
+**Deze programma’s zijn al deftig uitgewerkt en worden dus niet meer besproken.**
+
+De oplossingen van de subcategorieën vormen een concept waar we mee verder werken. Ons concept combineert voor informatieweergave een HUD over heel de voorruit met bediening door middel van stembediening en fysieke knoppen, voor de meest essentiële functies, en een verdwijnend touchscreen voor de functies die niet essentieel zijn tijdens het rijden. Het touchscreen is een voorbeeld van restrictie op bediening. Het HUD toont enkel navigatie, snelheidslimieten en waarschuwingen.
+
+## Materiaal & methoden - concept testing
+### Test 1
+Test 1 polst naar de rijervaring bij het HUD, meer specifiek een on-road navigatiesysteem. Dit systeem projecteert de navigatie op de baan zodat de piloot niet van de baan weg hoeft te kijken. 
+
+#### Onderzoeksvragen test 1
+- Wat zijn in het algemeen plus- en minpunten van zo'n systeem volgens de eindgebruiker?
+- Wat zijn plus- en minpunten van zo'n systeem vergeleken met huidige navigatiesystemen?
+- Welke vorm zou dergelijke projectie best aannemen?
+
+#### Verloop
+De test start met kennismaking van de eindgebruiker en polst naar hun rijervaring in verband met afleiding. Hierna doen de testpersonen twee ritten in een simulatie met een verschillend on-road navigatiesysteem. Na de ritten wordt het systeem geëvalueerd en vergeleken met hun ervaring in de realiteit alsook frustraties met huidige navigatiesystemen besproken.
+
+<p align=center>  
+  <img src="/fotos/Schermafbeelding 2024-01-23 232700.png") alt=afgelegde route in de simulatie width=50% />
+</p>
+
+De simulatie is het videospel Watch Dogs 2 van developer Ubisoft met zijn oorspronkelijke navigatie (onderstaande foto, links). De andere layout (onderstaande foto, rechts) voor het on-roadnavigatiesystemen is een modification van GeraldoDeRivia. De gebruikers zitten voor een scherm en besturen het spel met een game-controller terwijl de interviewer het gespiegelde beeld op de laptop bekijkt. 
+
+<p >  
+  <img src="/fotos/navigatielayout1.png" width=48% />
+  <img src="/fotos/navigatielayout2.png" width=48% />
+</p>
+
+### Test 2
+De tweede test onderzoekt de positie en mechanisme van een touchscreen dak verdwijn tijdens het rijden.
+
+#### Onderzoeksvragen test 2
+- Hoe dient deze oplossing te worden vormgegeven om gebruiksvriendelijk en ergonomisch te zijn?
+- Wat is de optimale interface die de balans tussen minimalisme en bruikbaarheid vindt?
+
+#### Verloop
+De testpersonen zitten in de bestuurs- en passagierszetel en de interviewer zit op de achterbank. Drie prototypes worden vergeleken en de geïnterviewden bedenken locaties op het dashboard waar het scherm zou passen.
+
+<p align=center>  
+  <img src="fotos/Schermafbeelding 2024-01-24 234010.png") alt=testlocatie width=50% />
+</p>
+
+Bij prototype 1 draait het scherm open met een scharnier aan de onderkant van het scherm. Prototype 2 is een scherm dat zwart wordt en bij prototype 3 schijft het scherm omhoog loodrecht op het dashboard. (Zie onderstaande foto’s)
+
+<p>
+  <img src="/fotos/scherm1.jpg" width = 30%>
+  <img src="/fotos/scherm2.jpg" width = 30%>
+  <img src="/fotos/scherm3.jpg" width = 30%>
+</p>
+
+
+## Resultaten
+Test 1: on-road navigatiesysteem
+
+#### Wat zijn in het algemeen plus- en minpunten van zo'n systeem volgens de eindgebruiker?
+
+Het navigatiesysteem is intuïtief. Wanneer goed uitgevoerd is, is er geen vergissing mogelijk tijdens het rijden.
+<br> 
+<br>
+#### Wat zijn plus- en minpunten van zo'n systeem vergeleken met huidige navigatiesystemen?
+
+De navigatie is duidelijker op ingewikkelde plaatsen zoals rond parken in Gent of afritten met meerdere opties. Het is niet meer nodig om van de baan weg te kijken, wat meer focus op de baan kan houden.
+<br> 
+<br>
+#### Welke vorm zou dergelijke projectie best aannemen?
+
+Algemeen ging de voorkeur naar een dikke projectie die tot aan de neus van de auto komt. De achterliggende redenen zijn: Geen mogelijke verwarring met wegmarkeringen, duidelijke zichtbare navigatie, minder snel verstopt onder andere auto’s.
+Redenen voor eerder een dunne lijn te gebruiken is dat minder afleiding/opvulling van de weg. 
+<br> 
+<br>
+#### Twijfels
+
+De testpersonen hadden ook enkele twijfels bij het systeem, bv. Zorgt het niet voor te veel afleiding? Hoe zichtbaar is de projectie bij lage zon of mistig weer? Hoe moet je navigeren als obstakels voor de auto het beeld blokkeren? Wat met wegmarkeringen in het midden van de weg, zijn die nog zichtbaar?
+<br> 
+<br>
+#### Opmerkingen
+
+Het systeem waarmee nu getest is, is wat moeilijk voor mensen die niet gewoon zijn om videospellen te spelen. Verder gaan testpersonen sneller verkeersregels breken wanneer ze in de simulatie rijden. 
+<br> 
+<br>
+
+
+Test 2: touchscreen deployment
+
+#### Hoe dient deze oplossing te worden vormgegeven om gebruiksvriendelijk en ergonomisch te zijn?
+
+Gebruikers verkiezen doorgaans het systeem dat uitschuift. Deze neemt geen plaats is als het niet gebruikt wordt heeft niet veel ruimte nodig om te activeren. De locatie van dit scherm wordt altijd centraal gekozen, op deze manier kunnen beide gebruikers het scherm makkelijk bereiken. Op het dashboard was daarbij de meest verkozen hoogte. Het scherm blokkeert enkel een deel van de voorruit, maar dit is niet van belang tijdens het stilstaan.
+Eén gebruiker stelde de nood voor een scherm in vraag, aangezien alles via stem bediend kan worden.
+
+
+## Conclusies & implicaties
+De testen hebben veel nieuwe inzichten gebracht in onze ideeën. Met de twijfels over de werking van het on-roadnavigatiesysteem zijn er duidelijke nieuwe onderzoeksvragen. Testen in het tweede semester moeten uitwijzen hoe afleidend het systeem is en hoe gevoelig het is aan omstandigheden buiten de auto. Het display kan verder uitgewerkt worden naar een functionele interface e bekeken worden hoe goed het finale systeem werkt.
+
 
 
 
