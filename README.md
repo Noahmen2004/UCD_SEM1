@@ -291,4 +291,4 @@ Voice Control with Natural Language-Understanding Technology | Innovation |. (n.
 Head-up display: technologie achter de voorruit | Carglass®. (n.d.). Glass. <br> &emsp; https://www.carglass.be/nl/autoruitschade/technologie-achter-de-voorruit/head-up-display#:~:text=Head%2Dup%20display%20is%20het,de%20autoruit%20maakt%20dit%20mogelijk
 
 ## Bijlagen
-see documentation [here](/car dashboard (G drive)/)
+see documentation [here](car%20dashboard%20(G%20drive)/)
