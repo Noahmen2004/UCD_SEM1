@@ -35,7 +35,7 @@ Uit de doelgroep volgen dan ook verschillende sub eisen/wensen. Een van deze is 
 
 Het project is in samenwerking met Granstudio een bedrijf dat al lang bezig is met het ontwerpen van nieuwe en innovatieve oplossingen voor interactieve producten en al veel bezig is geweest met onder andere automotive design, interactive design en mobility design (About | Granstudio, n.d.). Zij gebruiken digiphy om verschillende aspecten van het dashboard te testen en verwachten dat we een soortgelijke opstelling maken om ook verschillende aspecten te kunnen testen. 
 
-## Methdologie
+## Methodologie
 <p>
   <img src="https://github.com/Noahmen2004/UCD_SEM1/blob/main/fotos/Dashboard%20design%20challenge%20-%20Frame%205%20(2).jpg" width="49%"/>
 
