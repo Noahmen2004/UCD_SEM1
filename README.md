@@ -3,7 +3,7 @@
 > "Een zo veilig mogelijk car dashboard ontworpen voor gezinnen
 "
 
-*Projectteam: Noah Menschaert; luca Poppe*
+*Projectteam: luca Poppe; Noah Menschaert;*
 
 
 *Datum 22/1/2024*
